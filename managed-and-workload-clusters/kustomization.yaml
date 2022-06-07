@@ -3,5 +3,5 @@ kind: Kustomization
 metadata:
   name: dev-cluster
 resources:
-- mgmt-cluster-eks-a-cluster.yaml
-- w01-cluster-eks-a-cluster.yaml
+- cluster-dev-eks-a-cluster.yaml
+- cluster-dev-eks-a-cluster.yaml
